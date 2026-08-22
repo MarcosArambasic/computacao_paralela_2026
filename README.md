@@ -1,2 +1,3 @@
-# computacao_paralela_2026
-Disciplina de computação paralela 202602
+# Computacao Paralela 2026
+Disciplina de Computação Paralela 202602 - Universidade Presbiteriana Mackenzie
+
